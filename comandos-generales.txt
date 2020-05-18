@@ -1,0 +1,6 @@
+cd	"nombre":	abre un directorio
+cd ..:	vuelve al difectorio anterios
+mkdir "nombre":		crea un directorio
+rm "archivo":	ekimina un archivo
+rm -d: elimina una carpeta
+ls:	lista el contenido de un dirrectio
