@@ -1,6 +1,0 @@
-git add "nombre"		aggrega un archivo o carpeta index
-git commit		regidtra los cambios en el repositorio con un hash
-git status		compara el working directory en el index
-git diff --staged		compara el index con el repositorio local
-git diff "nombre"		compara los cambios realizados en los archivos con el head actual y el anterior
-
